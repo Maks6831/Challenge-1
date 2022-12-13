@@ -12,9 +12,9 @@ The CSS selectors are also organized to follow the semantic structure of the HTM
 
 ![Screenshot 2022-12-13 at 16 00 43](https://user-images.githubusercontent.com/118021969/207384219-7db171bc-b5c6-47ca-a774-c61d37fdfaec.png)
 
-### Links
+### Link
 
-
+https://maks6831.github.io/Challenge-1-Horiseon-Homepage/
 
 ### Credits
 
